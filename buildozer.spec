@@ -1,5 +1,6 @@
 [app]
 title = LifeOS
+version = 0.1.0
 package.name = lifeos
 package.domain = org.lifeos
 source.dir = .
