@@ -8,6 +8,8 @@ source.include_exts = py,kv,sql,md,png,jpg,ttf
 requirements = python3,kivy,requests
 orientation = portrait
 android.permissions = INTERNET
+android.api = 35
+android.accept_sdk_license = True
 
 [buildozer]
 log_level = 2
