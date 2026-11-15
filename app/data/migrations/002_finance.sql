@@ -1,0 +1,1 @@
+-- Finance migration placeholder; see docs/DATABASE_SCHEMA.md.
