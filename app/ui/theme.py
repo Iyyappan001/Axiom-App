@@ -1,10 +1,10 @@
-"""Shared visual tokens for the first LifeOS dashboard preview."""
+"""AXIOM visual tokens, kept in one place for a consistent dark mobile UI."""
 
-BACKGROUND = (0.067, 0.094, 0.145, 1)
-SURFACE = (0.122, 0.161, 0.216, 1)
-SURFACE_MUTED = (0.169, 0.204, 0.263, 1)
-PRIMARY = (0.357, 0.553, 0.929, 1)
-POSITIVE = (0.125, 0.706, 0.525, 1)
-ACCENT = (0.957, 0.722, 0.376, 1)
-TEXT = (0.937, 0.953, 0.980, 1)
-TEXT_MUTED = (0.635, 0.686, 0.765, 1)
+BACKGROUND = (0.012, 0.024, 0.025, 1)
+SURFACE = (0.035, 0.067, 0.067, 1)
+SURFACE_MUTED = (0.055, 0.106, 0.102, 1)
+PRIMARY = (0.08, 0.95, 0.48, 1)
+POSITIVE = (0.08, 0.95, 0.48, 1)
+ACCENT = (1.0, 0.72, 0.12, 1)
+TEXT = (0.94, 0.97, 0.96, 1)
+TEXT_MUTED = (0.60, 0.69, 0.68, 1)
