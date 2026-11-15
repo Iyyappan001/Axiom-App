@@ -86,7 +86,7 @@ class Chart(Widget):
             Color(.08, .95, .48, .11)
             self.canvas.add(RoundedRectangle(pos=(x, y), size=(w, h*.32), radius=[dp(8)]))
             Color(*GREEN)
-            self.canvas.add(Line(points=points, width=dp(1.25), joint="curve"))
+            self.canvas.add(Line(points=points, width=dp(1.25), joint="round"))
             self.canvas.add(Ellipse(pos=(x+w-dp(4), y+h*.88-dp(4)), size=(dp(8), dp(8))))
 
 
